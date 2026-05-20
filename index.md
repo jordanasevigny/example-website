@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. candidate at University of California Santa Cruz in the Ocean Sciences Department. My dissertation research investigates how ocean circulation and climate variability influence marine invertebrate redistribution along the California Current using a combination of long-term biodiversity observations, environmental DNA (eDNA), and oceanographic transport analyses.
 
 ## Research Interests
 
