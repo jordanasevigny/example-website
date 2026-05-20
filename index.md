@@ -20,4 +20,4 @@ I am a Ph.D. candidate at University of California Santa Cruz in the Ocean Scien
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
