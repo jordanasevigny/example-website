@@ -10,13 +10,35 @@ main:
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Multiple Lineages of Transmissible Neoplasia in the Basket Cockle (C. nuttallii) With Repeated Horizontal Transfer of Mitochondrial DNA"
+    authors: Marisa A. Yonemitsu* & Jordana K. Sevigny*, Lauren Vandepas, Rachael M. Giersch, Ryan Crim, James Dimond, Elizabeth Unsell, Jodie Toft, and Michael J. Metzger
+    # conference_short: CVPR
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://doi.org/10.1111/mec.17682
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
+  - title: "MeadoWatch long-term community-science database of wildflower phenology in Mount Rainier National Park"
+    authors: Rubén D. Manzanedo, Aji John, Meera L. Sethi, Elli J. Theobald, Berry Brosi, Joshua Jenkins, Ava Kloss-Schmidt, Emilia Lia, Annie Schiffer, Jordana Sevigny, Anna Wilson, Yonit Yogev, and Janneke Hille Ris Lambers
+    # conference_short: CVPR
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://doi.org/10.1038/s41597-022-01206-8
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
+  - title: "Climate change impacts on natural icons: Do phenological shifts threaten the relationship between peak wildflowers and visitor satisfaction?"
+    authors: Janneke Hille Ris Lambers, Anthony F. Cannistra, Aji John, Emmi Lia, Rubén D. Manzanedo, Meera Sethi, Jordana Sevigny, Elli J. Theobald, and Jazzmine K. Waugh
+    # conference_short: CVPR
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://doi.org/10.1016/j.ecochg.2021.100008
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
