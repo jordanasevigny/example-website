@@ -1,10 +1,10 @@
 main:
 
   - title: "Variation in Natural Infection Outcomes and Cancer Release in Soft-Shell Clams (Mya arenaria) with Bivalve Transmissible Neoplasia"
-    authors: Jordana K. Sevigny* & Sydney A. Weinandt* , Carissa Mayo, Fiona E. S. Garrett , Karyn Tindbaek , Marisa A. Yonemitsu, Samuel F. M. Hart, Michael J. Metzger
+    authors: Rachael M. Giersch* , Jordana K. Sevigny* & Sydney A. Weinandt* , Carissa Mayo, Fiona E. S. Garrett , Karyn Tindbaek , Marisa A. Yonemitsu, Samuel F. M. Hart, Michael J. Metzger
     # conference_short: MICCAI
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://doi.org/10.1371/journal.ppat.1013537
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
